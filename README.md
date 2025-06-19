@@ -8,9 +8,9 @@
 
 // Here are screenshots of the Code for the Main screen: 
 ![Screenshot 2025-06-19 133349](https://github.com/user-attachments/assets/deb0baeb-488a-4466-92e1-1cad2b1c0014)
-Within the first part of the code.It displays the parrallel arrays used throughout the code and introduces how each code is therefore used. It displays the code for the start, next and exit button
+Within the first part of the code.It displays the parralel arrays used throughout the code and introduces how each code is therefore used. It displays the code for the start, next and exit button
 ![Screenshot 2025-06-19 133413](https://github.com/user-attachments/assets/39b8bdf3-5390-4763-bfb5-9d987ece9b87)
-Within the image above it dispalys the private function used within the code to allow the programmer understand the size of the arrays at hand. The next button is therefore linked to the next screen allowing the user to move between them.
+Within the image above it displays the private function used within the code to allow the programmer understand the size of the arrays at hand. The next button is therefore linked to the next screen allowing the user to move between them.
 
 //Here are the screenshots of the code for my Detailed View Screen:
 ![Screenshot 2025-06-19 133445](https://github.com/user-attachments/assets/f718899e-8daa-4a3a-babe-3f1780e172e3)
