@@ -1,7 +1,8 @@
 "# SummativePracticum1" 
 "# SummativePracticum1" 
 "# SummativePracticum1" 
-// Here is a link to my repository: 
+
+// Here is a link to my repository: https://github.com/ST10487763/SummativePracticum1
 // Here are screenshots of the Code for the Main screen: 
 ![Screenshot 2025-06-19 133349](https://github.com/user-attachments/assets/deb0baeb-488a-4466-92e1-1cad2b1c0014)
 Within the first part of the code.It displays the parrallel arrays used throughout the code and introduces how each code is therefore used. It displays the code for the start, next and exit button
