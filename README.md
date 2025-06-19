@@ -2,6 +2,8 @@
 "# SummativePracticum1" 
 "# SummativePracticum1" 
 
+// Description of my app: This is an interactive application allowing mutiple users the oppurtunity to enter their favourite artists and create a suitable playlist. This interface allows for the user to move in between screens when needed as well as exit the app completely. 
+
 // Here is a link to my repository: https://github.com/ST10487763/SummativePracticum1
 
 // Here are screenshots of the Code for the Main screen: 
